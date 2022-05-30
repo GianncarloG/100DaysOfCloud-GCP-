@@ -14,17 +14,16 @@
 Fill in your details where you see this icon ✍️
 We have provided a sample Day Journey entry staring at 0. You can delete this example.
 
-## [✍️ Your Name]'s Cloud Journey
+## Gianncarlo Giannattasio's Cloud Journey
 
-[✍️ Introduce yourself]
+My name is Gianncarlo Ginnattasio. I'm a tech enthusiast curently in the the cloud computing industry. Lots of changes have been happening in my life. Just got a new job, recently married, and expecting a kid soon. 
 
-[✍️ Tell us why you started this challenge]
+I want to start this challange because I recently got into the feld with getting my AWS associate cert and I want to expand me knowlage with cloud services.
 
-[✍️ Tell us where you want to be at the end of the challenge]
+I'm currntly studying for GCP associate and I want to be able to have the experance to pass the test. 
 
-- [✍️ Link to your Twitter](https://twitter.com/username)
-- [✍️ Link to your LinkedIn](https://www.linkedin.com/in/username)
-
+- https://twitter.com/roylink
+- https://www.linkedin.com/in/gianncarlog/
 ## Stepping out the door
 
 - [ ] ☁️ 1 > [My First Day](Journey/001/Readme.md)
